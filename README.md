@@ -6,7 +6,7 @@
 
 To install the package you need to use NPM
 
-npm install lotr-api-access
+npm install nikita-zdrabov-sdk
 
 ## Getting Started
 
@@ -14,7 +14,7 @@ This package provides you with the LotrService class which allows you to get inf
 
 ## Example usage
 
-import LotrService from 'lotr-api-access';
+import LotrService from 'nikita-zdrabov-sdk';
 
 // getting all books:
 const result = await LotrService.getAllBooks();
